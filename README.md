@@ -29,8 +29,6 @@ OMGL/
 │   └── 03_post_optimization_analysis.ipynb
 │
 ├── data/
-├── figures/
-└── results/
 ```
 
 ---
